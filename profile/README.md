@@ -1,1 +1,1 @@
-[!LogoShit](img/logoshit.png)
+![LogoShit](img/logoshit.png)
